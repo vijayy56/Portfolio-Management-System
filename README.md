@@ -14,11 +14,11 @@ The __Customer Portal__ displays the [Login page](https://github.com/vijayy56/Po
 
 If the uer credentials are correct, it generates a __token__ for the particular session. This token is also provided with an **expiration time**.
 
-Upon succesfully logging in, the user gets redirected to  [Home page](\images\2.png "Click to view the home page") which has options to either show the newtworth of the user or the sell any assets
+Upon succesfully logging in, the user gets redirected to  [Home page](https://github.com/vijayy56/Portfolio-Management-System/blob/main/images/2.png "Click to view the home page") which has options to either show the newtworth of the user or the sell any assets
 
-If the user selects [Networth option](\images\3.png "Click to view the networth"), it redirects to networth page and shows the networth of the user.
+If the user selects [Networth option](https://github.com/vijayy56/Portfolio-Management-System/blob/main/images/3.png "Click to view the networth"), it redirects to networth page and shows the networth of the user.
 
-When the user selects [Sell stocks](\images\5.png "Click to view the sell stocks page"), the list of all the assets are displayed and the user gets to choose his assets to be sold and also the number of units to be sold.After selecting,the portal displays the [updated networth page](\images\6.png "Click to view the updated networth ") along with the stocks sold.
+When the user selects [Sell stocks](https://github.com/vijayy56/Portfolio-Management-System/blob/main/images/5.png "Click to view the sell stocks page"), the list of all the assets are displayed and the user gets to choose his assets to be sold and also the number of units to be sold.After selecting,the portal displays the [updated networth page](https://github.com/vijayy56/Portfolio-Management-System/blob/main/images/6.png "Click to view the updated networth ") along with the stocks sold.
 
 ---    
 ## Project Details
